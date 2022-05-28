@@ -7,6 +7,7 @@ var X;
 var Y;
 var yC = document.getElementById('y-c');
 var xC = document.getElementById('x-c');
+ctx.drawImage(img, 0, 0, 900, 900);
 
 
 canvas.onmousemove = (e) => {
