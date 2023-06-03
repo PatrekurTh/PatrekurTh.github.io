@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Traveller's Wrap",
+        "type": "Cloak",
+        "tier": "Tier 1",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -1819786494
+    },
+    {
+        "name": "Hunter's Cloak",
+        "type": "Cloak",
+        "tier": "Tier 2",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 786585343
+    },
+    {
+        "name": "Shroud of the Forest",
+        "type": "Cloak",
+        "tier": "Tier 3",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1063517722
+    },
+    {
+        "name": "Phantom's Veil",
+        "type": "Cloak",
+        "tier": "Tier 3",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -227965303
+    }
+]

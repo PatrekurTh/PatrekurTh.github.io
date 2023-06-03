@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Research Bag",
+        "type": "Bag",
+        "tier": "Small",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -934103018
+    },
+    {
+        "name": "Gem Bag",
+        "type": "Bag",
+        "tier": "Small",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1194858217
+    },
+    {
+        "name": "Herb Bag",
+        "type": "Bag",
+        "tier": "Small",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 973498953
+    },
+    {
+        "name": "Coin Purse",
+        "type": "Bag",
+        "tier": "Small",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -395025845
+    },
+    {
+        "name": "Research Bag",
+        "type": "Bag",
+        "tier": "Medium",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1380841616
+    },
+    {
+        "name": "Gem Bag",
+        "type": "Bag",
+        "tier": "Medium",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 587746531
+    },
+    {
+        "name": "Herb Bag",
+        "type": "Bag",
+        "tier": "Medium",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -2092252179
+    },
+    {
+        "name": "Coin Purse",
+        "type": "Bag",
+        "tier": "Medium",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1783779012
+    },
+    {
+        "name": "Research Bag",
+        "type": "Bag",
+        "tier": "Large",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1636955029
+    },
+    {
+        "name": "Gem Bag",
+        "type": "Bag",
+        "tier": "Large",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -878297986
+    },
+    {
+        "name": "Herb Bag",
+        "type": "Bag",
+        "tier": "Large",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1539650522
+    },
+    {
+        "name": "Coin Purse",
+        "type": "Bag",
+        "tier": "Large",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -1106357951
+    }
+]

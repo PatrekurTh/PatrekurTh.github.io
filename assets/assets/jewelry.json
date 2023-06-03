@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Bone Ring",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1557814269
+    },
+    {
+        "name": "Bone Rose Ring",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -652069131
+    },
+    {
+        "name": "Gravedigger Ring",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -1588051702
+    },
+    {
+        "name": "Ring of the Dawnrunner",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 50824544
+    },
+    {
+        "name": "Ring of the Warlock",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 336922685
+    },
+    {
+        "name": "Ring of the Duskwatcher",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -809059551
+    },
+    {
+        "name": "Ring of the Spellweaver",
+        "type": "Jewelry",
+        "tier": "Ring",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -886916793
+    },
+    {
+        "name": "Scourgestone Pendant",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -650855520
+    },
+    {
+        "name": "Pendant of the Knight",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -425306671
+    },
+    {
+        "name": "Pendant of the Warlock",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -651554566
+    },
+    {
+        "name": "Pendant of the Sorcerer",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 199425997
+    },
+    {
+        "name": "Pendant of the Danwrunner",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -1046748791
+    },
+    {
+        "name": "Pendant of the Spellweaver",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1012837641
+    },
+    {
+        "name": "Pendant of the Duskwatcher",
+        "type": "Jewelry",
+        "tier": "Pendant",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 610958202
+    },
+    {
+        "name": "Blood Merlot Amulet",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 991396285
+    },
+    {
+        "name": "Amulet of the Crimnson Commander",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -104934480
+    },
+    {
+        "name": "Amulet of the Arch-Warlock",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1380368392
+    },
+    {
+        "name": "Amulet of the Wicked Prophet",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -175650376
+    },
+    {
+        "name": "Amulet of the Unyielding Charger",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -1004351840
+    },
+    {
+        "name": "Amulet of the Master Spellweaver",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -1306155896
+    },
+    {
+        "name": "Amulet of the Blademaster",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": -296161379
+    },
+    {
+        "name": "Blood Key",
+        "type": "Jewelry",
+        "tier": "Amulet",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_BoneRing_Medium.webp",
+        "id": 1655869633
+    }
+]

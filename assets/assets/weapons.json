@@ -1,0 +1,415 @@
+[
+    {
+        "name": "Sanguine Axes",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelAxe02_Medium.webp",
+        "id": -2044057823
+    },
+    {
+        "name": "Sanguine Crossbow",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelCrossbow02_Medium.webp",
+        "id": 1389040540
+    },
+    {
+        "name": "Sanguine Mace",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelMace02_Medium.webp",
+        "id": -126076280
+    },
+    {
+        "name": "Sanguine Reaper",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelScythe02_Medium.webp",
+        "id": -2053917766
+    },
+    {
+        "name": "Sanguine Slashers",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelSlashers02_Medium.webp",
+        "id": 1322545846
+    },
+    {
+        "name": "Sanguine Spear",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelSpear02_Medium.webp",
+        "id": -850142339
+    },
+    {
+        "name": "Sanguine Sword",
+        "type": "Weapon",
+        "tier": "Sanguine",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelSword02_Medium.webp",
+        "id": -774462329
+    },
+    {
+        "name": "Dark Silver Axes",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelAxe01_Medium.webp",
+        "id": -1130238142
+    },
+    {
+        "name": "Dark Silver Crossbow",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelCrossbow01_Medium.webp",
+        "id": -814739263
+    },
+    {
+        "name": "Dark Silver Mace",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelMace01_Medium.webp",
+        "id": -184713893
+    },
+    {
+        "name": "Dark Silver Reaper",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelScythe01_Medium.webp",
+        "id": 6711686
+    },
+    {
+        "name": "Dark Silver Slashers",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelSlashers01_Medium.webp",
+        "id": 633666898
+    },
+    {
+        "name": "Dark Silver Spear",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelSpear01_Medium.webp",
+        "id": -352704566
+    },
+    {
+        "name": "Dark Silver Sword",
+        "type": "Weapon",
+        "tier": "Dark Silver",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_SteelSword01_Medium.webp",
+        "id": -1455388114
+    },
+    {
+        "name": "Merciless Iron Axes",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronAxe02_Medium.webp",
+        "id": 198951695
+    },
+    {
+        "name": "Merciless Iron Crossbow",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronCrossbow02_Medium.webp",
+        "id": 1221976097
+    },
+    {
+        "name": "Merciless Iron Mace",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronMace02_Medium.webp",
+        "id": -276593802
+    },
+    {
+        "name": "Merciless Iron Reaper",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronScythe02_Medium.webp",
+        "id": 1778128946
+    },
+    {
+        "name": "Merciless Iron Slashers",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronSlashers02_Medium.webp",
+        "id": 866934844
+    },
+    {
+        "name": "Merciless Iron Spear",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronSpear02_Medium.webp",
+        "id": 1065194820
+    },
+    {
+        "name": "Merciless Iron Sword",
+        "type": "Weapon",
+        "tier": "Merciless Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronSword02_Medium.webp",
+        "id": -435501075
+    },
+    {
+        "name": "Iron Axes",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronAxe01_Medium.webp",
+        "id": -1579575933
+    },
+    {
+        "name": "Iron Crossbow",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronCrossbow01_Medium.webp",
+        "id": 836066667
+    },
+    {
+        "name": "Iron Mace",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronMace01_Medium.webp",
+        "id": -1714012261
+    },
+    {
+        "name": "Iron Reaper",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronScythe01_Medium.webp",
+        "id": -2081286944
+    },
+    {
+        "name": "Iron Slashers",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronSlashers01_Medium.webp",
+        "id": -314614708
+    },
+    {
+        "name": "Iron Spear",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronSpear01_Medium.webp",
+        "id": 1853029976
+    },
+    {
+        "name": "Iron Sword",
+        "type": "Weapon",
+        "tier": "Iron",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_IronSword01_Medium.webp",
+        "id": -903587404
+    },
+    {
+        "name": "Merciless Copper Axes",
+        "type": "Weapon",
+        "tier": "Merciless Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeAxe02_Medium.webp",
+        "id": -491969324
+    },
+    {
+        "name": "Merciless Copper Mace",
+        "type": "Weapon",
+        "tier": "Merciless Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeMace02_Medium.webp",
+        "id": 343324920
+    },
+    {
+        "name": "Merciless Copper Reaper",
+        "type": "Weapon",
+        "tier": "Merciless Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeScythe02_Medium.webp",
+        "id": 1048518929
+    },
+    {
+        "name": "Merciless Copper Slashers",
+        "type": "Weapon",
+        "tier": "Merciless Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeSlashers02_Medium.webp",
+        "id": -1042299347
+    },
+    {
+        "name": "Merciless Copper Spear",
+        "type": "Weapon",
+        "tier": "Merciless Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeSpear02_Medium.webp",
+        "id": 790210443
+    },
+    {
+        "name": "Merciless Copper Sword",
+        "type": "Weapon",
+        "tier": "Merciless Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeSword02_Medium.webp",
+        "id": -1219959051
+    },
+    {
+        "name": "Merciless Hunter's Crossbow",
+        "type": "Weapon",
+        "tier": "Merciless Hunter's",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeCrossbow02_Medium.webp",
+        "id": -1636801169
+    },
+    {
+        "name": "Copper Axes",
+        "type": "Weapon",
+        "tier": "Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeAxe01_Medium.webp",
+        "id": 518802008
+    },
+    {
+        "name": "Copper Mace",
+        "type": "Weapon",
+        "tier": "Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeMace01_Medium.webp",
+        "id": -331345186
+    },
+    {
+        "name": "Copper Reaper",
+        "type": "Weapon",
+        "tier": "Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeScythe01_Medium.webp",
+        "id": 1522792650
+    },
+    {
+        "name": "Copper Slashers",
+        "type": "Weapon",
+        "tier": "Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeSlashers01_Medium.webp",
+        "id": 1499160417
+    },
+    {
+        "name": "Copper Spear",
+        "type": "Weapon",
+        "tier": "Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeSpear01_Medium.webp",
+        "id": 1370755976
+    },
+    {
+        "name": "Copper Sword",
+        "type": "Weapon",
+        "tier": "Copper",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeSword01_Medium.webp",
+        "id": -2037272000
+    },
+    {
+        "name": "Hunter's Crossbow",
+        "type": "Weapon",
+        "tier": "Hunter's",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BronzeCrossbow01_Medium.webp",
+        "id": -1277074895
+    },
+    {
+        "name": "Lumberjack's Axes",
+        "type": "Weapon",
+        "tier": "Lumberjack's",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_Axe_v2_04_Medium.webp",
+        "id": 1541522788
+    },
+    {
+        "name": "Miner's Mace",
+        "type": "Weapon",
+        "tier": "Miner's",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_Hammer_30_Medium.webp",
+        "id": -687294429
+    },
+    {
+        "name": "Bone Crossbow",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneCrossbow02_Medium.webp",
+        "id": 898159697
+    },
+    {
+        "name": "Reinforced Bone Axes",
+        "type": "Weapon",
+        "tier": "Reinforced Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneAxe02_Medium.webp",
+        "id": -1391446205
+    },
+    {
+        "name": "Reinforced Bone Mace",
+        "type": "Weapon",
+        "tier": "Reinforced Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneMace02_Medium.webp",
+        "id": -1998017941
+    },
+    {
+        "name": "Reinforced Bone Reaper",
+        "type": "Weapon",
+        "tier": "Reinforced Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneScythe02_Medium.webp",
+        "id": 1402953369
+    },
+    {
+        "name": "Reinforced Bone Slashers",
+        "type": "Weapon",
+        "tier": "Reinforced Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneSlashers02_Medium.webp",
+        "id": 926722036
+    },
+    {
+        "name": "Reinforced Bone Spear",
+        "type": "Weapon",
+        "tier": "Reinforced Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneSpear02_Medium.webp",
+        "id": 1244180446
+    },
+    {
+        "name": "Reinforced Bone Sword",
+        "type": "Weapon",
+        "tier": "Reinforced Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneSword02_Medium.webp",
+        "id": -796306296
+    },
+    {
+        "name": "Bone Axes",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneAxe01_Medium.webp",
+        "id": -1958888844
+    },
+    {
+        "name": "Bone Crossbow",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneCrossbow01_Medium.webp",
+        "id": -20041991
+    },
+    {
+        "name": "Bone Mace",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneMace01_Medium.webp",
+        "id": 1588258447
+    },
+    {
+        "name": "Bone Reaper",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneScythe01_Medium.webp",
+        "id": -152327780
+    },
+    {
+        "name": "Bone Slashers",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneSlashers01_Medium.webp",
+        "id": -588909332
+    },
+    {
+        "name": "Bone Spear",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneSpear01_Medium.webp",
+        "id": 2038011836
+    },
+    {
+        "name": "Bone Sword",
+        "type": "Weapon",
+        "tier": "Bone",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_BoneSword01_Medium.webp",
+        "id": -2085919458
+    },
+    {
+        "name": "Fishing Pole",
+        "type": "Weapon",
+        "tier": "Fishing",
+        "image_url": "https://risingdb.com/images/assets/Poneti_Icon_Engineering_59_mega_fishingrod_Medium.webp",
+        "id": 1302850112
+    }
+]

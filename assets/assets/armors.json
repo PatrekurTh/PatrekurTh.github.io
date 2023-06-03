@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Bloodmoon Boots",
+        "type": "Armor",
+        "tier": "Bloodmoon",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_08_Shadowmoon_Medium.webp",
+        "id": -556769032
+    },
+    {
+        "name": "Bloodmoon Chestguard",
+        "type": "Armor",
+        "tier": "Bloodmoon",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_08_Shadowmoon_Medium.webp",
+        "id": 488592933
+    },
+    {
+        "name": "Bloodmoon Gloves",
+        "type": "Armor",
+        "tier": "Bloodmoon",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_08_Shadowmoon_Medium.webp",
+        "id": 1634690081
+    },
+    {
+        "name": "Bloodmoon Leggings",
+        "type": "Armor",
+        "tier": "Bloodmoon",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_08_Shadowmoon_Medium.webp",
+        "id": 1292986377
+    },
+    {
+        "name": "Dawnthorn Boots",
+        "type": "Armor",
+        "tier": "Dawnthorn",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_07_Dawnthorn_Medium.webp",
+        "id": 560446510
+    },
+    {
+        "name": "Dawnthorn Chestguard",
+        "type": "Armor",
+        "tier": "Dawnthorn",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_07_Dawnthorn_Medium.webp",
+        "id": -930514044
+    },
+    {
+        "name": "Dawnthorn Gloves",
+        "type": "Armor",
+        "tier": "Dawnthorn",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_07_Dawnthorn_Medium.webp",
+        "id": 2055058719
+    },
+    {
+        "name": "Dawnthorn Leggings",
+        "type": "Armor",
+        "tier": "Dawnthorn",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_07_Dawnthorn_Medium.webp",
+        "id": -1555051415
+    },
+    {
+        "name": "Merciless Hollowfang Boots",
+        "type": "Armor",
+        "tier": "Merciless Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_06_MercilessHollowfang_Medium.webp",
+        "id": -674860200
+    },
+    {
+        "name": "Merciless Hollowfang Gloves",
+        "type": "Armor",
+        "tier": "Merciless Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_06_MercilessHollowfang_Medium.webp",
+        "id": 82446940
+    },
+    {
+        "name": "Merciless Hollowfang Leggings",
+        "type": "Armor",
+        "tier": "Merciless Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_06_MercilessHollowfang_Medium.webp",
+        "id": -916555565
+    },
+    {
+        "name": "Merciless Hollowfang Vest",
+        "type": "Armor",
+        "tier": "Merciless Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_06_MercilessHollowfang_Medium.webp",
+        "id": 1388572480
+    },
+    {
+        "name": "Hollowfang Boots",
+        "type": "Armor",
+        "tier": "Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_05_Hollowfang_Medium.webp",
+        "id": -1837769884
+    },
+    {
+        "name": "Hollowfang Chestguard",
+        "type": "Armor",
+        "tier": "Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_05_Hollowfang_Medium.webp",
+        "id": -604941435
+    },
+    {
+        "name": "Hollowfang Gloves",
+        "type": "Armor",
+        "tier": "Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_05_Hollowfang_Medium.webp",
+        "id": -406808302
+    },
+    {
+        "name": "Hollowfang Leggings",
+        "type": "Armor",
+        "tier": "Hollowfang",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_05_Hollowfang_Medium.webp",
+        "id": 12127911
+    },
+    {
+        "name": "Merciless Nightstalker Boots",
+        "type": "Armor",
+        "tier": "Merciless Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_04_MercilessNightstalker_Medium.webp",
+        "id": -1675225643
+    },
+    {
+        "name": "Merciless Nightstalker Gloves",
+        "type": "Armor",
+        "tier": "Merciless Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_04_MercilessNightstalker_Medium.webp",
+        "id": -1739590652
+    },
+    {
+        "name": "Merciless Nightstalker Leggings",
+        "type": "Armor",
+        "tier": "Merciless Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_04_MercilessNightstalker_Medium.webp",
+        "id": -1771720396
+    },
+    {
+        "name": "Merciless Nightstalker Vest",
+        "type": "Armor",
+        "tier": "Merciless Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_04_MercilessNightstalker_Medium.webp",
+        "id": 1721366777
+    },
+    {
+        "name": "Nightstalker Boots",
+        "type": "Armor",
+        "tier": "Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_03_Nightstalker_Medium.webp",
+        "id": -1354920908
+    },
+    {
+        "name": "Nightstalker Gloves",
+        "type": "Armor",
+        "tier": "Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_03_Nightstalker_Medium.webp",
+        "id": -1183157751
+    },
+    {
+        "name": "Nightstalker Leggings",
+        "type": "Armor",
+        "tier": "Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_03_Nightstalker_Medium.webp",
+        "id": 1925394440
+    },
+    {
+        "name": "Nightstalker Vest",
+        "type": "Armor",
+        "tier": "Nightstalker",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_03_Nightstalker_Medium.webp",
+        "id": -957963240
+    },
+    {
+        "name": "Plated Boneguard Boots",
+        "type": "Armor",
+        "tier": "Plated Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_02_PlatedBoneguard_Medium.webp",
+        "id": 1241831522
+    },
+    {
+        "name": "Plated Boneguard Chestguard",
+        "type": "Armor",
+        "tier": "Plated Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_02_PlatedBoneguard_Medium.webp",
+        "id": -958936382
+    },
+    {
+        "name": "Plated Boneguard Gloves",
+        "type": "Armor",
+        "tier": "Plated Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_02_PlatedBoneguard_Medium.webp",
+        "id": 1746537832
+    },
+    {
+        "name": "Plated Boneguard Leggings",
+        "type": "Armor",
+        "tier": "Plated Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_02_PlatedBoneguard_Medium.webp",
+        "id": -2036196416
+    },
+    {
+        "name": "Boneguard Boots",
+        "type": "Armor",
+        "tier": "Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Boots_01_Boneguard_Medium.webp",
+        "id": 711062517
+    },
+    {
+        "name": "Boneguard Chestguard",
+        "type": "Armor",
+        "tier": "Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Chest_01_Boneguard_Medium.webp",
+        "id": 329301090
+    },
+    {
+        "name": "Boneguard Gloves",
+        "type": "Armor",
+        "tier": "Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Gloves_01_Boneguard_Medium.webp",
+        "id": -2029933415
+    },
+    {
+        "name": "Boneguard Leggings",
+        "type": "Armor",
+        "tier": "Boneguard",
+        "image_url": "https://risingdb.com/images/assets/Stunlock_Icon_Legs_01_Boneguard_Medium.webp",
+        "id": 1355823667
+    }
+]

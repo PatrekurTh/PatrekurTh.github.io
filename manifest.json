@@ -1,6 +1,6 @@
 {
-    "name": "v_rising_site",
-    "short_name": "v_rising_site",
+    "name": "v_rising_firestore",
+    "short_name": "v_rising_firestore",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
